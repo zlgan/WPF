@@ -1,0 +1,13 @@
+E:\02study\02code\WCF\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+E:\02study\02code\WCF\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\App.g.cs
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\WPFDemo_MarkupCompile.cache
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\WPFDemo.g.resources
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\WPFDemo.Properties.Resources.resources
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\WPFDemo.csproj.GenerateResource.Cache
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\WPFDemo.exe
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\WPFDemo.pdb
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\MainWindow1.baml
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\Window1.baml
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\MainWindow1.g.cs
+E:\02study\02code\WCF\WPFDemo\WPFDemo\obj\x86\Debug\Window1.g.cs
